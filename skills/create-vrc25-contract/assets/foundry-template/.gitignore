@@ -1,0 +1,9 @@
+# Foundry
+out/
+cache/
+broadcast/
+
+# Secrets
+.env
+
+# Dependencies are managed as git submodules; keep lib/ tracked via .gitmodules.
